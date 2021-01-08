@@ -1,0 +1,45 @@
+.picture{
+  height: 200px;
+}
+
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nav {
+
+    display: flex;
+    margin: 2px;
+    padding: 20px;
+
+
+}
+
+.space {
+    margin: 2px;
+    padding: 20px;
+    border: ridge 5px;
+}
+
+h1 {
+    border: ridge 5px;
+}
+
+body {
+    background-color: #F1E9D2;
+}
+
+.info {
+    color: blue;
+}
+.navbar:hover {
+background-color:black;
+    color:white;
+}
+.L{
+font-family: 'Ubuntu', sans-serif;
+}
+
